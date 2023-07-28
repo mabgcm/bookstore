@@ -1,3 +1,3 @@
-# Click to see the Bookstora app:
+### Click to see the Bookstore app:
 
-(https://bookstore-xi-six.vercel.app/).
+https://bookstore-xi-six.vercel.app/
